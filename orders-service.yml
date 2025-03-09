@@ -30,7 +30,7 @@ spring:
 
 external:
   # url для связи с Menu Service
-  menu-service-url: "http://localhost:9091"
+  menu-service-url: "http://localhost:19091"
   # путь эндпоинта для получения информации о доступности и ценах блюд
   menu-info-path: "/v1/menu-items/menu-info"
   # таймаут, который будет использоваться при связи с Menu Service, чтобы не ожидать ответа вечно
